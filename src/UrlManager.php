@@ -1,5 +1,5 @@
 <?php
-namespace kilyakus\web\urlmanager;
+namespace kilyakus\component\urlmanager;
 
 defined('YII2_LOCALEURLS_TEST') || define('YII2_LOCALEURLS_TEST', false);
 

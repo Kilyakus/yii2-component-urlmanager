@@ -1,5 +1,5 @@
 {
-    "name": "kilyakus/yii2-web-urlmanager",
+    "name": "kilyakus/yii2-component-urlmanager",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kilyakus\\web\\urlmanager\\": "src"
+            "kilyakus\\component\\urlmanager\\": "src"
         }
     }
 }
